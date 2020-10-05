@@ -1,14 +1,13 @@
 # Disaster Response Pipeline
 
 Creating a machine learning pipeline to categorize real messages send during disaster events.
-ata.
 
-### Table of Contents
+## Table of Contents
 
-1. Instructions(#start)
-2. [What's included](#files)
-3. [Important files](#licensing)
-
+1. [Instructions](#start)
+2. [What's Included](#files)
+3. [Important Files](#licensing)
+4. [Student Notes](#licensing)
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
@@ -23,7 +22,7 @@ ata.
 
 3. Go to http://0.0.0.0:3001/
 
-### Whats included:
+### Whats Included:
 Here's the file structure of the project:
 
 ```
